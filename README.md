@@ -96,7 +96,7 @@ AUC (Test): 0.9325
 KS (Train): 0.9897
 KS (Test): 0.8587
 
-*RandomForestClassifier()
+RandomForestClassifier()
 
 AUC (Train): 1.0000
 AUC (Test): 0.9861
